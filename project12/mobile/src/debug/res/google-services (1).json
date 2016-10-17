@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "175341165122",
+    "project_id": "sonorous-reach-134218"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175341165122:android:5ca2b87f51f6fd4b",
+        "android_client_info": {
+          "package_name": "COM.EXAMPLE.AAYUSHSRIVASTAVA.PROTECT12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdnT2ul3_x04xMzFGa5qXhiQj3nWRi5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

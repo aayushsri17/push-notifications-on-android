@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_details"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="GCM" />
+        <item
+            android:id="@+id/nav_addfriend"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Add Friends" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Search Map" />
+
+        <!--
+        <item
+            android:id="@+id/nav_sendloc"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Send My Location" />
+        <item
+            android:id="@+id/nav_sharedloc"
+            android:icon="@android:drawable/ic_menu_directions"
+            android:title="Shared Location" />
+            -->
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>
